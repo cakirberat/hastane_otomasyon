@@ -36,7 +36,7 @@ Bu proje, bir hastanenin acil servisinde gerçekleşen hasta kabul, önceliklend
 ### Projeyi Klonlayın
 
 ```bash
-git clone https://github.com/pelinsusaglam/data-structures.git
+git clone ttps://github.com/cakirberat/hastane_otomasyon.git
 cd 'data-structures/Final Version/HospitalSystem'
 ```
 
